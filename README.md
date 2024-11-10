@@ -99,7 +99,7 @@ smb.exe -nw 1.1.1.0/24 -up admin;password -rid -ntlm
 ```
 
 ## Illustration Video:
-...Coming Soon...
+https://mega.nz/file/MekGTKYQ#AZGxgi1k0A0kmp8z1MpBlm0Z-oQ2mjdUEyGH1ctg0oI
 
 ## Contact Info:
  - Email:     wuddz_devs@protonmail.com
